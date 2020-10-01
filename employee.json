@@ -1,0 +1,9 @@
+
+	[
+		{"name":"Shyam","gender":"Male","email":"shyamjaiswal@gmail.com","state":"Karnataka"},
+		{"name":"Geeta","gender":"Female","email":"geeta@gmail.com","state":"Karnataka"},
+		{"name":"Jai","gender":"Male","email":"jai@gmail.com","state":"Kerala"},
+		{"name":"Suman","gender":"Female","email":"suman@gmail.com","state":"Hyderabad"},
+		{"name":"Ram","gender":"Male","email":"ram@gmail.com","state":"Delhi"},
+		{"name":"Mega","gender":"Female","email":"mega@gmail.com","state":"Tamil Nadu"}
+	]
